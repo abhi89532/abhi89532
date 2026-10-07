@@ -116,6 +116,6 @@ I use GitHub to document my embedded software projects, demonstrate firmware dev
 ## Connect With Me
 
 - 📧 Email: `gorrepati@myjobsinbox.com`
-- 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 💼 LinkedIn: (https://www.linkedin.com/)
 
 ⭐ Feel free to explore my repositories and follow my journey in embedded software engineering.
